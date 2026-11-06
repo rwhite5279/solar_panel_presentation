@@ -21,11 +21,11 @@ See photos of materials at end of docoment
 Setup
 -----
 
-Before the presentation, the solar panel should be connected to the battery and controller as shown in the diagram at the end of this document. *Take care that the positive and negative terminals of the battery are not connected directly to each other with any conductor!* For safety, the battery should be kept in the large, plastic battery box, although there is educational value in having the battery visible to students where they can identify it.
+Before the presentation, the solar panel should be connected to the battery and controller as shown in the diagram at the end of this document. The battery and controller are stored in a large, plastic battery box, along with a small screwdriver for connecting the solar panel to the controller. (The battery connectors are usually left connected to the controller.) *Take care that the positive and negative terminals of the battery are not connected directly to each other with any conductor!* For safety, the battery should be kept in the battery box, although there is educational value in having the battery visible to students where they can identify it.
 
-The round Circuit Playground Express has a "sound meter" program that loads and runs automatically when that unit is plugged into the USB-A port on the solar controller. This unit can be hung over the solar cell where it is visible to students.
+The round Circuit Playground Express (CPX) computer has a MicroPython "sound meter" program that loads and runs automatically when that unit is plugged into the USB-A port on the solar controller. This unit can be hung over the solar cell where it is visible to students.
 
-Prior to the presentation, students may have questions about the lights and/or the solar panel.
+Prior to the presentation, students may have questions about the flashing lights on the CPX and/or the solar panel. This is a great time to build up interest in the upcoming presentation.
 
 Formal Presentation
 -------------------
@@ -64,11 +64,14 @@ A solar cell does not use a generator!
 
 In a *solar cell*, light hitting special types of panels has enough energy to cause electrons to move, which creates a current in circuits connected to the panel.
 
-Where do we see solar cells or solar panels?
+Here we have a solar cell. It's not really getting any sun shining on it right now, so... how is the sound meter even working? *How can solar power be any good if it's only working when the sun is out?*
+
+Solar cells are usually connected to a battery of some sort, as well as a controller and whatever it is that you want to power. The controller automatically switches the circuit so that when the solar cell is making energy, it can power a device and/or charge the battery. And when it's not making energy (it's too dark), the controller connects the battery to deliver enegy to the device to keep it running.
+
+*Where else do we see solar cells or solar panels?*
 
 * The roofs of people's houses.
 * "Solar farms" located out in open areas.
-* Here's one! It's hooked up to a controller, a battery, and whatever else it is that you want to power. The controller automatically switches the circuit so that when the solar cell is making energy, it can power a device and/or charge the battery. And when it's not making energy (it's too dark), the battery can deliver enegy to the device to keep it running.
 * This emergency radio can be powered by batteries, or a generator, or solar cells!
 * The roof of our gym?! 
 
