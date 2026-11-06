@@ -83,10 +83,29 @@ Laura Fleming closes up with information about how Poly uses that energy.
 Photos
 ------
 
-<figure style="width: 100%; border-bottom: solid 1px gray;"><img src="./img/solar_cell_connected_to_battery_and_controller.jpg"><figcaption>Solar cell connected to battery and controller. Ensure that red wires are connect to red (+) terminal, and black wires are connected to black (-) terminals.</figcaption></figure>
-<figure style="width: 100%; border-bottom: solid 1px gray;"><img src="./img/closeup_of_controller_connections.jpg"><figcaption>Close-up of controller connections</figcaption></figure>
-<figure style="width: 100%; border-bottom: solid 1px gray;"><img src="./img/cpx_connected_to_controller_USB_port.JPG"><figcaption>Circuit Playground Express plugged into USB port on controller</figcaption></figure>
-<figure style="width: 100%; border-bottom: solid 1px gray;"><img src="./img/genecon_demo.jpg"><figcaption>Genecon demo</figcaption></figure>
-<figure style="width: 100%; border-bottom: solid 1px gray;"><img src="./img/solar_array_on_poly_gym.jpg"><figcaption>Solar array on the roof of the Poly gym</figcaption></figure>
-<figure style="width: 100%; border-bottom: solid 1px gray;"><img src="./img/solar_cell_specifications.jpg"><figcaption>Back of solar cell with specifications</figcaption></figure>
+<figure style="width: 100%;"><img src="./img/solar_cell_connected_to_battery_and_controller.jpg"><figcaption>Solar cell connected to battery and controller. Ensure that red wires are connect to red (+) terminal, and black wires are connected to black (-) terminals.</figcaption></figure>
+
+***
+
+<figure style="width: 100%;"><img src="./img/closeup_of_controller_connections.jpg"><figcaption>Close-up of controller connections</figcaption></figure>
+
+***
+
+<figure style="width: 100%;"><img src="./img/cpx_connected_to_controller_USB_port.JPG"><figcaption>Circuit Playground Express plugged into USB port on controller</figcaption></figure>
+
+***
+
+<figure style="width: 100%;"><img src="./img/midland_radio_w_crank_charger.jpg"><figcaption>Midland Emergency radio showing crank handle for charging battery</figcaption></figure>
+
+*** 
+
+<figure style="width: 100%;"><img src="./img/genecon_demo.jpg"><figcaption>Genecon demo</figcaption></figure>
+
+***
+
+<figure style="width: 100%;"><img src="./img/solar_array_on_poly_gym.jpg"><figcaption>Solar array on the roof of the Poly gym</figcaption></figure>
+
+***
+
+<figure style="width: 100%;"><img src="./img/solar_cell_specifications.jpg"><figcaption>Back of solar cell with specifications</figcaption></figure>
 
